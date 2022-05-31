@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @priv4cy
 - 👀 I’m interested in cybersecurity, GNU/Linux, privacy and freedom softwares.
-- 🌱 I’m currently learning english, linux, math, code.
+- 🌱 I’m currently learning github, english, linux, code.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
